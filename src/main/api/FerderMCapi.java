@@ -6,7 +6,7 @@ public class FerderMCapi {
     {
         String api = new String();
 
-    void main(String[api], args) {
+    void main(String[api] args) {
 
     int api() {
                 int source = "";
